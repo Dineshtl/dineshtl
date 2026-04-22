@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Dinesh! 👋
 
-<!--
-**Dineshtl/dineshtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Junior SOC Analyst | Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+🔭 Currently practicing **KQL queries** on Microsoft Sentinel lab  
+🌱 Completing **TryHackMe SOC Level 1** path  
+💼 6 months hands-on SOC internship at **WorldSec Technologies**  
+📍 Bengaluru, India  
+🔗 [LinkedIn](https://linkedin.com/in/dineshtl)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools & Skills
+
+| Category | Tools |
+|----------|-------|
+| **SIEM** | Splunk Enterprise, Microsoft Sentinel |
+| **Ticketing** | ServiceNow |
+| **Threat Intel** | VirusTotal, Cisco Talos, MXToolbox |
+| **Query Language** | SPL, KQL |
+| **Networking** | TCP/IP, DNS, DHCP, OSI Model |
+| **Frameworks** | MITRE ATT&CK, Cyber Kill Chain |
+| **OS** | Windows, Linux |
+
+---
+
+## 📁 My SOC Portfolio Repositories
+
+| Repository | Description |
+|------------|-------------|
+| 🔍 SOC-Investigation-Reports | Incident investigation reports from Sentinel lab |
+| 📊 KQL-Sentinel-Queries | KQL queries for threat detection |
+| 🔎 Splunk-SPL-Queries | SPL queries from SOC internship |
+| 📋 Incident-Response-Playbooks | Step by step IR playbooks |
+
+---
+
+## 📫 Contact Me
+- 📧 dineshtl821@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/dineshtl)
