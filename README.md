@@ -15,6 +15,7 @@
 | Category | Tools |
 |----------|-------|
 | **SIEM** | Splunk Enterprise, Microsoft Sentinel |
+|  **EDR**  | CrowdStrike Falcon (Alert Triage, Threat Hunting, Network Containment)  | 
 | **Ticketing** | ServiceNow |
 | **Threat Intel** | VirusTotal, Cisco Talos, MXToolbox |
 | **Query Language** | SPL, KQL |
@@ -32,7 +33,7 @@
 | 📊 KQL-Sentinel-Queries | KQL queries for threat detection |
 | 🔎 Splunk-SPL-Queries | SPL queries from SOC internship |
 | 📋 Incident-Response-Playbooks | Step by step IR playbooks |
-
+| 🛡️ CrowdStrike-Falcon-EDR-Investigations |  Ransomware detection, threat hunting & active response using CrowdStrike Falcon |
 ---
 
 ## 📫 Contact Me
